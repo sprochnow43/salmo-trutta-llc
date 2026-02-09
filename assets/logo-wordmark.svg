@@ -1,0 +1,9 @@
+<svg width="560" height="180" viewBox="0 0 560 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Salmo Trutta LLC wordmark logo">
+  <rect width="560" height="180" rx="20" fill="#F6F3EA"/>
+  <text x="280" y="82" text-anchor="middle" font-size="72" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-weight="700" fill="#1E3A2A">Salmo Trutta</text>
+  <line x1="70" y1="106" x2="218" y2="106" stroke="#1E3A2A" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="280" cy="106" r="5" fill="#1E3A2A"/>
+  <circle cx="300" cy="106" r="5" fill="#1E3A2A"/>
+  <line x1="342" y1="106" x2="490" y2="106" stroke="#1E3A2A" stroke-width="5" stroke-linecap="round"/>
+  <text x="280" y="156" text-anchor="middle" font-size="56" font-family="Georgia, serif" font-weight="700" fill="#1E3A2A">LLC</text>
+</svg>

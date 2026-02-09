@@ -1,0 +1,11 @@
+<svg width="720" height="300" viewBox="0 0 720 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Salmo Trutta LLC mountain badge logo">
+  <path d="M52 175C52 161 61 150 74 146L131 129C169 101 214 66 270 56C302 26 358 21 393 51C438 42 463 62 490 84C536 71 593 103 620 129L657 140C677 145 690 162 690 183V218C690 233 681 246 667 252L395 293C389 294 383 294 377 293L75 242C61 238 52 225 52 211V175Z" fill="#1E3A2A"/>
+  <path d="M154 128C196 95 238 72 276 65L296 57L316 61L343 47L377 55L406 71L444 66L477 81L498 99L525 97L563 117L583 129L557 120L517 112L492 119L470 105L436 99L405 103L373 89L342 83L315 90L285 85L248 93L219 112L184 121L154 128Z" fill="#E7DFC8" opacity="0.9"/>
+  <path d="M100 160H622" stroke="#E7DFC8" stroke-width="2" stroke-dasharray="3 7" opacity="0.35"/>
+  <text x="360" y="192" text-anchor="middle" font-size="88" font-family="'Trebuchet MS', 'Segoe UI', sans-serif" font-weight="700" fill="#F4EFDF">Salmo Trutta</text>
+  <line x1="130" y1="216" x2="300" y2="216" stroke="#F4EFDF" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="360" cy="216" r="5" fill="#F4EFDF"/>
+  <circle cx="378" cy="216" r="5" fill="#F4EFDF"/>
+  <line x1="420" y1="216" x2="590" y2="216" stroke="#F4EFDF" stroke-width="5" stroke-linecap="round"/>
+  <text x="360" y="260" text-anchor="middle" font-size="58" font-family="Georgia, serif" font-weight="700" fill="#F4EFDF">LLC</text>
+</svg>
